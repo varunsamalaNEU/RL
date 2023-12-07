@@ -1,0 +1,12 @@
+gymnasium
+gymnasium[box2d]
+pygame
+numpy
+pillow
+pickle5
+pyyaml==6.0
+pyglet==1.5.1
+tqdm
+jupyter
+scikit-video
+stable-baselines3
